@@ -1,2 +1,2 @@
 # WE_MOVED
-We moved to github.com/unvt
+We moved to https://github.com/unvt
